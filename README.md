@@ -44,5 +44,4 @@ requirements_list.append('example_1')
 requirements_list.append('example_2')
 #etc
 ```
-<h2>Credits</h2>
 <h4>Written on <a href='https://github.com/pyrogram/pyrogram'>Pyrogram</a></h4>
