@@ -4,12 +4,7 @@
 <h3>This repository contains the custom bot code, instructions on how to deploy the bot yourself, and an example of required code in custom modules</h3><br>
   
 
-<nav>
-<li><a href='https://github.com/JoHn-111/Userbot/tree/master#installation'>Installation</a></li>
-<li><a href='https://github.com/JoHn-111/Userbot/tree/master#custom-modules'>Custom modules</a></li>
-<li><a href='https://github.com/JoHn-111/Userbot#credits'>Credits</a></li>
-  
-</nav>
+
 
 
 <h2>Installation</h2>
@@ -44,4 +39,3 @@ requirements_list.append('example_1')
 requirements_list.append('example_2')
 #etc
 ```
-<h4>Written on <a href='https://github.com/pyrogram/pyrogram'>Pyrogram</a></h4>
